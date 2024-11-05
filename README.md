@@ -21,6 +21,8 @@ https://github.com/Sequence007/LITA-CAPSTONE-PROJECT-2/blob/main/top%20subscript
 
 ### SQL Features of the project
 ---
+
+https://github.com/Sequence007/LITA-CAPSTONE-PROJECT-2/blob/main/LITA%20Capstone%20Project%202.sql
 Key Insights were extracted using SQL, the insights are as follows:
 
     1. Retrieve the total number of customers from each region.
