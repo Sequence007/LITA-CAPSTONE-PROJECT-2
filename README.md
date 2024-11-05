@@ -17,7 +17,7 @@ I carefully analyzed the raw dataset so as to ascertain the subscription pattern
 ### Excel Features
 ---
 The Key Features of the Project are listed below
-  
+https://github.com/Sequence007/LITA-CAPSTONE-PROJECT-2/blob/main/top%20subscription%20type.png
 
 ### SQL Features of the project
 ---
@@ -40,4 +40,5 @@ Where condition = True
 ---
 I represented all the data worked on Excel and Sql in Power Bi and the result are a follows:
 
+https://github.com/Sequence007/LITA-CAPSTONE-PROJECT-2/blob/main/customer%20data.jpg
 
